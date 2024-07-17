@@ -6,7 +6,6 @@
 - 💞️ Estou procurando colaborar em projetos de código aberto e iniciativas de desenvolvimento de software.
 - 📫 Como me encontrar: @it4sscavalcanti
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Tenho paixão por resolver quebra-cabeças complexos e gosto de jogar xadrez no meu tempo livre.
 
 ## Habilidades
 - Linguagens de Programação: Java.
