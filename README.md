@@ -8,7 +8,7 @@
 - 😄 Pronomes: Ela/Dela
 
 ## Habilidades
-- Linguagens de Programação: Java.
+- Linguagens de Programação: Java,JavaScript.
 - Modelagem de Dados.
 - Linguagem SQL.
 - Desenvolvimento Web: HTML, CSS, JavaScript
